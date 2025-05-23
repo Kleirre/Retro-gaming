@@ -1,0 +1,4 @@
+claire 4 20 200 perdu 
+claire 2 20 100 perdu 
+Shalom 16 10 10 gagné 
+Claire 6 4 4 perdu 
